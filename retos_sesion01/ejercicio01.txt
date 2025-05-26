@@ -1,0 +1,2 @@
+# Bienvenida desde PSG for Beginners
+> un gran saludo a la comunidad Python La Paz por las lecciones e induccion a la tecnologia
